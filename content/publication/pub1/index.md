@@ -34,8 +34,8 @@ featured: false
 # Custom links (uncomment lines below)
  links:
  - name: Custom Link
-  # url: http://example.org
-url_pdf: 'http://arxiv.org/abs/1907.06913'
+  url: http://arxiv.org/abs/1907.06913
+  url_pdf: https://arxiv.org/pdf/1907.06913.pdf
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
