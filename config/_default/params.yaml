@@ -8,7 +8,7 @@
 theme: custom_theme
 day_night: true
 font: ''
-font_size: L
+font_size: M
 
 # SEO
 
@@ -63,7 +63,7 @@ main_menu:
   show_logo: true
   show_language: false
   show_day_night: true
-  show_search: true
+  show_search: false
   highlight_active_link: true
 
 # Localization
@@ -89,16 +89,16 @@ edit_page:
     post: false
     book: false
 show_related:
-  book: true
+  book: false
   page: false
-  post: true
-  project: true
-  publication: true
-  event: true
+  post: false
+  project: false
+  publication: false
+  event: false
 reading_time: true
 section_pager: false
 docs_section_pager: true
-sharing: true
+sharing: false
 copyright_license:
   enable: false
   allow_derivatives: false
@@ -123,11 +123,11 @@ breadcrumb:
 comments:
   provider: ''
   commentable:
-    post: true
-    book: true
-    project: true
-    publication: true
-    event: true
+    post: false
+    book: false
+    project: false
+    publication: false
+    event: false
   disqus:
     shortname: ''
     show_count: true
