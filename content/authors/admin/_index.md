@@ -1,4 +1,3 @@
-<img src="https://web.umons.ac.be/app/uploads/2018/02/UMONS-rouge-quadri-avec-texteth.png" width="100">
 ---
 # Display name
 title: Clément Tamines
