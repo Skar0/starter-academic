@@ -12,9 +12,10 @@ headless: true
 # Order that this section appears on the page.
 weight: 5
 
-title: 'Biography <img src="https://web.umons.ac.be/app/uploads/2018/02/UMONS-rouge-quadri-avec-texteth.png" width="300">'
+title: Biography
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
 # See https://wowchemy.com/docs/get-started/#introduce-yourself
 author: admin
 ---
+<img src="https://web.umons.ac.be/app/uploads/2018/02/UMONS-rouge-quadri-avec-texteth.png" width="100">
