@@ -47,7 +47,7 @@ social:
   link: clement.tamines@umons.ac.be
 - icon: cv
   icon_pack: ai
-  link: media/clement-tamines-academic-resume.pdf
+  link: uploads/clement-tamines-academic-resume.pdf
 - icon: dblp
   icon_pack: ai
   link: https://dblp.org/pid/245/2655.html
