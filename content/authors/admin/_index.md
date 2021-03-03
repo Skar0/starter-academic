@@ -45,7 +45,10 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: ai-dblp big-icon
+- icon: cv
+  icon_pack: ai
+  link: https://dblp.org/pid/245/2655.html
+- icon: dblp
   icon_pack: ai
   link: https://dblp.org/pid/245/2655.html
 - icon: github
