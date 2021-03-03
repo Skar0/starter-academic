@@ -46,7 +46,7 @@ experience:
     location: Mons, Belgium
     date_start: '2016-09-01'
     date_end: '2018-05-30'
-    description: |2- Student Teaching assistant for the following courses  
+    description: Student Teaching assistant for the following courses  
       * Programming and Algorithmics I (Python 3),
       * Programming and Algorithmics II (Java 8).
         
