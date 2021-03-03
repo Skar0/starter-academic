@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: clement.tamines@umons.ac.be
 - icon: cv
   icon_pack: ai
   link: media/clement-tamines-academic-resume.pdf
