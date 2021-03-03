@@ -9,7 +9,7 @@ role: PhD Student in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Mons
+- name: 'University of Mons <img src="https://web.umons.ac.be/app/uploads/2018/02/UMONS-rouge-quadri-avec-texteth.png" width="100">'
   url: https://web.umons.ac.be/en/
 
 # Short bio (displayed in user profile at end of posts)
