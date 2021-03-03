@@ -1,5 +1,5 @@
 ---
-title: La vérification à l’aide des jeux
+title: Formal Verification Using Games
 
 event: Séminaire Jeunes 
 # event_url:
