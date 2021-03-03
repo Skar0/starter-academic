@@ -12,7 +12,7 @@ location: Brussels, Belgium
 
 date: 2019-09-11
 
-authors: [Clément Tamines]
+authors: []
 tags: []
 
 featured: false
