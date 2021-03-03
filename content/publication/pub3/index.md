@@ -4,7 +4,7 @@ title: "Stackelberg-Pareto Synthesis (Full Version)"
 authors:
 - Véronique Bruyère
 - Jean-François Raskin
-- Clément Tamines
+- admin
 
 date: 2021-02-17
 # doi: 
