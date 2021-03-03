@@ -50,11 +50,36 @@ design:
     height: auto;
 }
 
-<body>
   <div class="image-wrapper">
     <a href="http://www.drogies-test.de/"><img src="https://web.umons.ac.be/app/uploads/2018/02/UMONS-rouge-quadri-avec-texteth.png" align="left" class="scale-image"></a>
   </div>
   <div class="image-wrapper">
     <a href="http://www.theater-osnabrueck.de/" target="_blank"><img src="https://web.umons.ac.be/app/uploads/2018/02/UMONS-rouge-quadri-avec-texteth.png" align="right" class="scale-image"></a>
    </div>
-</body>
+
+
+<style type="text/css">
+.image-wrapper:first-of-type,.image-wrapper:nth-child(1) {
+    float: left;
+}
+
+.image-wrapper:last-of-type,.image-wrapper:nth-child(2) {
+    float: right;
+}
+
+.image-wrapper2 {
+    max-width: 50%;
+}
+
+.scale-image2 {
+    width: 100%;
+    height: auto;
+}
+</style>
+
+  <div class="image-wrapper2">
+    <a href="http://www.drogies-test.de/"><img src="https://web.umons.ac.be/app/uploads/2018/02/UMONS-rouge-quadri-avec-texteth.png" align="left" class="scale-image2"></a>
+  </div>
+  <div class="image-wrapper2">
+    <a href="http://www.theater-osnabrueck.de/" target="_blank"><img src="https://web.umons.ac.be/app/uploads/2018/02/UMONS-rouge-quadri-avec-texteth.png" align="right" class="scale-image2"></a>
+   </div>
