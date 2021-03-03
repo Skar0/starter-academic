@@ -71,5 +71,4 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-<img src="https://web.umons.ac.be/app/uploads/2018/02/UMONS-rouge-quadri-avec-texteth.png" width="100">
-I am a PhD student in the Computer Science department at the [University of Mons](https://web.umons.ac.be/en/) (UMONS) in Belgium. I am co-supervised by [Véronique Bruyère](http://informatique.umons.ac.be/staff/Bruyere.Veronique/) (UMONS) and [Jean-François Raskin](http://di.ulb.ac.be/verif/jfr/) ([Université libre de Bruxelles](https://www.ulb.be/en/ulb-homepage)). My research interests regard solving parity and generalized parity games efficiently and notions of equilibria in non-zero-sum multiplayer games. I am also very interested in the field of machine learning.
+I am a PhD student in the Computer Science department at the [University of Mons](https://web.umons.ac.be/en/) (UMONS) in Belgium. I am co-supervised by [Véronique Bruyère](http://informatique.umons.ac.be/staff/Bruyere.Veronique/) (UMONS) and [Jean-François Raskin](http://di.ulb.ac.be/verif/jfr/) ([Université libre de Bruxelles](https://www.ulb.be/en/ulb-homepage)). My research interests regard solving parity and generalized parity games efficiently and notions of equilibria in non-zero-sum multiplayer games. I am also very interested in the field of machine learning. 
