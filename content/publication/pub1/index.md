@@ -7,7 +7,7 @@ authors:
 - Jean-François Raskin
 - Clément Tamines
 
-date: "July 23, 2019"
+date: "July 2019"
 # doi: ""
 
 # Publication type.
