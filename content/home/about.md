@@ -1,5 +1,3 @@
-<img src="https://web.umons.ac.be/app/uploads/2018/02/UMONS-rouge-quadri-avec-texteth.png" width="100">
-
 ---
 # An instance of the About widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
