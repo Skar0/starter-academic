@@ -1,7 +1,7 @@
 ---
 title: Your Turn to Play! (Popular Science talk on Game Theory)
 
-event: Math & Science Days’19, Mons, Belgium.
+event: Math & Science Days’19
 # event_url:
 
 location: Mons, Belgium
