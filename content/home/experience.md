@@ -1,19 +1,12 @@
 ---
-# An instance of the Experience widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
 
-# This file represents a page section.
 headless: true
-
-# Order that this section appears on the page.
 weight: 40
 
 title: Experience
 subtitle:
 
-# Date format for experience
-#   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
 
 # Experiences.
@@ -22,24 +15,54 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
+  - title: Teaching assistant
+    company: University of Mons
+    company_url: https://web.umons.ac.be/en/
+    location: Mons, Belgium
+    date_start: 2018-10-01
+    date_end: 2022-01-30
+    description:
+      * Research internship on symbolic solving of games using Binary Decision Diagrams (2019).
+      * Master student project on window techniques for solving parity games (2018).
+     
+  - title: PhD in Computer Science
+    company: University of Mons
+    company_url: https://web.umons.ac.be/en/
+    location: Mons, Belgium
+    date_start: 2018-10-01
+    # date_end: 2019-08-30
+    description: PhD thesis on equilibira in non-zero-sum games.
+    
+  - title: Supervisor
+    company: University of Mons
+    company_url: https://web.umons.ac.be/en/
+    location: Mons, Belgium
+    date_start: 2018-09-01
+    date_end: 2019-08-30
+    description: Algorithmics and Bioinformatics: Java 8 project on DNA fragment assembly.
+  
+  - title: Student teaching assistant
+    company: University of Mons
+    company_url: https://web.umons.ac.be/en/
+    location: Mons, Belgium
+    date_start: 2016-09-01
+    date_end: 2018-05-30
+    description: Student Teaching assistant for the following courses:  
+      * Programming and Algorithmics I (Python 3),
+      * Programming and Algorithmics II (Java 8).
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Internship in Software Development
+    company: Thales Belgium SA
+    company_url: https://www.thalesgroup.com/en/countries/europe/belgium
+    location: Tubize, Belgium
+    date_start: 2017-09-01
+    date_end: 2017-11-30
+    description: I studied the possibility of using constraint programming (CP) in a radio configuration tool
+    to improve its performance and capabilities. I participated in the daily Scrum stand-up
+    meetings with the team and made a presentation of my work at the end of each sprint. I
+    first learned the main concepts of CP and analyzed how the tool worked from design and
+    test documentation. I then developed several working prototypes of increasing complexity
+    along with detailed internal documentation (in English). The final prototype recreated the
+    network generation part of the tool using CP. The implementation was done using Java 8
+    and the Choco Solver CP library
 ---
