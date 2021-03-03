@@ -47,7 +47,7 @@ social:
   link: '/#contact'
 - icon: cv
   icon_pack: ai
-  link: https://dblp.org/pid/245/2655.html
+  link: media/clement-tamines-academic-resume.pdf
 - icon: dblp
   icon_pack: ai
   link: https://dblp.org/pid/245/2655.html
@@ -73,5 +73,3 @@ highlight_name: true
 ---
 
 I am a PhD student in the Computer Science department at the [University of Mons](https://web.umons.ac.be/en/) (UMONS) in Belgium. I am co-supervised by [Véronique Bruyère](http://informatique.umons.ac.be/staff/Bruyere.Veronique/) (UMONS) and [Jean-François Raskin](http://di.ulb.ac.be/verif/jfr/) ([Université libre de Bruxelles](https://www.ulb.be/en/ulb-homepage)). My research interests regard solving parity and generalized parity games efficiently and notions of equilibria in non-zero-sum multiplayer games. I am also very interested in the field of machine learning.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
