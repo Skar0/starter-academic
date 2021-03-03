@@ -19,6 +19,8 @@ bio:
 interests:
 - Algorithmic Game Theory
 - Equilibria Notions in Games
+- Reactive System Synthesis
+- Multiplayer Games
 - Machine Learning
 
 # Education to show in About widget
