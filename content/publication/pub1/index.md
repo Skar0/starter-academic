@@ -26,16 +26,17 @@ abstract:  Parity games have been broadly studied in recent years for their appl
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
+tags: [Parity games, Generalized parity games, Partial solvers]
 
 # Display this page in the Featured widget?
 featured: false
 
 # Custom links (uncomment lines below)
  links:
- - name: Custom Link
-  url: http://arxiv.org/abs/1907.06913
-  url_pdf: https://arxiv.org/pdf/1907.06913.pdf
+ url_pdf: https://arxiv.org/pdf/1907.06913.pdf
+# - name: Custom Link
+#  url: http://arxiv.org/abs/1907.06913
+ # url_pdf: https://arxiv.org/pdf/1907.06913.pdf
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
