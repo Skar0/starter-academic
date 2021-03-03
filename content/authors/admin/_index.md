@@ -1,39 +1,41 @@
 ---
 # Display name
-title: Nelson Bighetti
-
+title: Clément Tamines
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Student in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: University of Mons
+  url: https://web.umons.ac.be/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Algorithmic Game Theory
+- Equilibria in Non-Zero-Sum Multiplayer Games
+- Machine Learning
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: PhD in Computer Science
     institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    year: 2022 (expected)
+  - course: University Certificate in Artificial Intelligence
+    institution: University of Mons
+    year: 2020
+  - course: MSc in Computer Science
+    institution: University of Mons
+    year: 2018
+  - course: BSc in Computer Science
+    institution: University of Mons
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,35 +45,30 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: ai-dblp big-icon
+  icon_pack: ai
+  link: https://dblp.org/pid/245/2655.html
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Skar0
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://be.linkedin.com/in/cl%C3%A9ment-tamines-720330124/en
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: media/resume.pdf
+#   link: media/clement-tamines-academic-resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a PhD student in the Computer Science department at the University of Mons (UMONS) in Belgium. I am co-supervised by Véronique Bruyère (UMONS) and Jean-François Raskin (Université libre de Bruxelles). My research interests regard solving parity and generalized parity games efficiently and notions of equilibria in non-zero-sum multiplayer games. I am also very interested in the field of machine learning.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
