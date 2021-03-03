@@ -1,5 +1,5 @@
 ---
-title: Formal Verification Using Games
+title: Formal Verification Using Game Theory
 
 event: Séminaire Jeunes 
 # event_url:
