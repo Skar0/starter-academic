@@ -23,8 +23,8 @@ design:
 
 * [Highlights of Logic, Games and Automata](http://highlights-conference.org/warsaw), Warsaw, Poland
 * [13th International Conference on Reachability Problems](https://sites.uclouvain.be/rp2019/), Brussels, Belgium
-* [LearnAut: Learning au Automata](https://learnaut19.github.io/), Vancouver, Canada
-* [MoRe: Multi-objective Reasoning in Verification and Synthesis](http://math.umons.ac.be/more2019) (LICS’19 workshop), Vancouver, Canada
+* [LearnAut: Learning au Automata](https://learnaut19.github.io/) (LICS’19 workshop), Vancouver, Canada
+* [MoRe: Multi-objective Reasoning in Verification and Synthesis](http://math.umons.ac.be/more2019), Vancouver, Canada
 * [Workshop - Theory and Algorithms in Graph and Stochastic Games](http://math.umons.ac.be/gamenet19), Mons, Belgium
 * [MdC: Mardi des Chercheurs](http://hosting.umons.ac.be/aspnet/mdc2019/), Mons, Belgium
 * [CFV Seminar](http://cfv.ulb.ac.be/?q&amp;#x3D;seminars_table), Brussels, Belgium
