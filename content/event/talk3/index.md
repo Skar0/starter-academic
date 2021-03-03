@@ -18,7 +18,7 @@ tags: []
 featured: false
 
 # url_pdf: ""
-# url_slides: ""
+url_slides: https://sites.uclouvain.be/rp2019/talks/Session%201/S1_1_tamines.pdf
 # url_video: ""
 
 ---
