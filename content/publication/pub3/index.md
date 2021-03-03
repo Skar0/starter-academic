@@ -24,6 +24,6 @@ tags: [Stackelberg non-zero sum games played on graphs, synthesis, parity object
 
 featured: false
 
-url_pdf: https://arxiv.org/pdf/1907.06913.pdf
+url_pdf: https://arxiv.org/pdf/2102.08925.pdf
 
 ---
