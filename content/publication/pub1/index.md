@@ -7,7 +7,7 @@ authors:
 - Jean-François Raskin
 - Clément Tamines
 
-date: {{ .Date.Format "2006" }}
+date: 2019-07-20
 # doi: ""
 
 # Publication type.
