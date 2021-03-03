@@ -12,17 +12,49 @@ design:
     padding: ["10px", "0", "10px", "0"]
 ---
 
-<div id=footer style="width:80%; margin:auto;">
-    <div style="display:inline-block; width:49%">
-        <p style="text-align:center">
-            <img src="https://web.umons.ac.be/app/uploads/2018/02/UMONS-rouge-quadri-avec-texteth.png" width="300">
+<style type="text/css">
+			.img-wrap, h1{
+				text-align: center;
+		  }
+			.img-wrap a img{
+ 					display:block;
+			}
+			.img-wrap > a{
+ 					display:inline-block;
+ 					vertical-align: middle;
+ 					border: 1px solid #555
+			}
+</style>
+
+<div class="img-wrap">
+		<a href="#"><img src="https://web.umons.ac.be/app/uploads/2018/02/UMONS-rouge-quadri-avec-texteth.png" height="150" width="150">Wedddings</a>
+		<a href="#"><img src="https://web.umons.ac.be/app/uploads/2018/02/UMONS-rouge-quadri-avec-texteth.png" height="150" width="150">Website</a>
 </div>
-        </p>
-    </div>
-    <div style="display:inline-block; width:49%">
-        <p style="text-align:center">
-            <img src="https://web.umons.ac.be/app/uploads/2018/02/UMONS-rouge-quadri-avec-texteth.png" width="300">
-</div>
-        </p>
-    </div>
-</div>
+
+
+
+.image-wrapper:first-of-type,.image-wrapper:nth-child(1) {
+    float: left;
+}
+
+.image-wrapper:last-of-type,.image-wrapper:nth-child(2) {
+    float: right;
+}
+
+.image-wrapper {
+    max-width: 50%;
+}
+
+.scale-image {
+    width: 100%;
+    height: auto;
+}
+
+<body>
+  <div class="image-wrapper">
+    <a href="http://www.drogies-test.de/"><img src="https://web.umons.ac.be/app/uploads/2018/02/UMONS-rouge-quadri-avec-texteth.png" align="left" class="scale-image"></a>
+  </div>
+  <div class="image-wrapper">
+    <a href="http://www.theater-osnabrueck.de/" target="_blank"><img src="https://web.umons.ac.be/app/uploads/2018/02/UMONS-rouge-quadri-avec-texteth.png" align="right" class="scale-image"></a>
+   </div>
+</body>
