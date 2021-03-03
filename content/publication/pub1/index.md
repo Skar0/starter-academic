@@ -1,17 +1,13 @@
 ---
 title: "Partial Solvers for Generalized Parity Games (Full Version)"
 
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
-# and it will be replaced with their full name and linked to their profile.
 authors:
 - Véronique Bruyère
 - Guillermo A. Pérez
 - Jean-François Raskin
 - Clément Tamines
 
-
-date: "23 July 2019"
+date: "July 23, 2019"
 # doi: ""
 
 # Publication type.
@@ -54,14 +50,6 @@ featured: false
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
 #  focal_point: ""
 #  preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-# projects:
-# - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
