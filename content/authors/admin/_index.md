@@ -18,7 +18,7 @@ bio:
 # Interests to show in About widget
 interests:
 - Algorithmic Game Theory
-- Equilibria in Non-Zero-Sum Multiplayer Games
+- Equilibria Notions in Games
 - Machine Learning
 
 # Education to show in About widget
@@ -27,7 +27,7 @@ education:
   - course: PhD in Computer Science
     institution: Stanford University
     year: 2022 (expected)
-  - course: University Certificate in Artificial Intelligence
+  - course: University Certificate in AI
     institution: University of Mons
     year: 2020
   - course: MSc in Computer Science
