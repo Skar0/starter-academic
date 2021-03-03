@@ -5,11 +5,14 @@ title: "Partial Solvers for Generalized Parity Games (Full Version)"
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- admin
-- Robert Ford
+- Véronique Bruyère
+- Guillermo A. Pérez
+- Jean-François Raskin
+- Clément Tamines
+
 
 date: "23 July 2019"
-doi: ""
+# doi: ""
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -32,8 +35,8 @@ tags: [Parity games, Generalized parity games, Partial solvers]
 featured: false
 
 # Custom links (uncomment lines below)
- links:
- url_pdf: https://arxiv.org/pdf/1907.06913.pdf
+# links:
+# url_pdf: https://arxiv.org/pdf/1907.06913.pdf
 # - name: Custom Link
 #  url: http://arxiv.org/abs/1907.06913
  # url_pdf: https://arxiv.org/pdf/1907.06913.pdf
