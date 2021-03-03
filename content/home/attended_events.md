@@ -18,6 +18,7 @@ design:
 2020
 
 * [Dynamics and Information Workshop](https://sites.google.com/view/dynamicsandinformation2020tau/home), Tel-Aviv, Israel
+
 2019
 
 * [Highlights of Logic, Games and Automata](http://highlights-conference.org/warsaw), Warsaw, Poland
@@ -28,6 +29,7 @@ design:
 * [MdC: Mardi des Chercheurs](http://hosting.umons.ac.be/aspnet/mdc2019/), Mons, Belgium
 * [CFV Seminar](http://cfv.ulb.ac.be/?q&amp;#x3D;seminars_table), Brussels, Belgium
 * [MFV Seminar](http://di.ulb.ac.be/verif/seminar/index.html), Brussels, Belgium
+
 2018
 
 * [Highlights of Logic, Games and Automata](http://highlights-conference.org/berlin/), Berlin, Germany
