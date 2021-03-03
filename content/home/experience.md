@@ -15,16 +15,6 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Teaching assistant
-    company: University of Mons
-    company_url: https://web.umons.ac.be/en/
-    location: Mons, Belgium
-    date_start: '2018-10-01'
-    date_end: '2022-01-30'
-    description: |2-
-      * Research internship on symbolic solving of games using Binary Decision Diagrams (2019).
-      * Master student project on window techniques for solving parity games (2018).
-     
   - title: PhD in Computer Science
     company: University of Mons
     company_url: https://web.umons.ac.be/en/
@@ -32,14 +22,17 @@ experience:
     date_start: '2018-10-01'
     description: PhD thesis on equilibira in non-zero-sum games.
     
-  - title: Supervisor
+  - title: Teaching assistant
     company: University of Mons
     company_url: https://web.umons.ac.be/en/
     location: Mons, Belgium
     date_start: '2018-09-01'
-    date_end: '2019-08-30'
-    description: Algorithmics and Bioinformatics; Java 8 project on DNA fragment assembly.
-  
+    description: |2-
+    
+        * Algorithmics and Bioinformatics: Java 8 project on DNA fragment assembly (2018 - 2022).
+        * Research internship on symbolic solving of games using Binary Decision Diagrams (2019).
+        * Master student project on window techniques for solving parity games (2018).
+        
   - title: Student teaching assistant
     company: University of Mons
     company_url: https://web.umons.ac.be/en/
