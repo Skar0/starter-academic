@@ -1,6 +1,6 @@
 ---
 widget: blank
-active: false
+active: true
 headless: true
 
 # Order that this section appears on the page.
@@ -47,8 +47,7 @@ design:
 }
 
 .scale-image2 {
-    width: 100%;
-    height: auto;
+    height: 100px;
 }
 </style>
 
