@@ -28,7 +28,7 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: University of Mons
-    year: 2022 (expected)
+    year: 2022
   - course: University Certificate in AI
     institution: University of Mons
     year: 2020
