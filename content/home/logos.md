@@ -11,4 +11,6 @@ design:
   spacing:
     padding: ["10px", "0", "10px", "0"]
 ---
-<img src="https://github.com/Skar0/fire-detection/blob/master/video_examples/video_0.gif" width="300">      <img src="https://github.com/Skar0/fire-detection/blob/master/video_examples/video_1.gif" width="300">
+![](https://web.umons.ac.be/app/uploads/2018/02/UMONS-rouge-quadri-avec-texteth.png) ![](https://web.umons.ac.be/app/uploads/2018/02/UMONS-rouge-quadri-avec-texteth.png)
+
+<img src="https://web.umons.ac.be/app/uploads/2018/02/UMONS-rouge-quadri-avec-texteth.png" width="300">      <img src="https://web.umons.ac.be/app/uploads/2018/02/UMONS-rouge-quadri-avec-texteth.png" width="300">
