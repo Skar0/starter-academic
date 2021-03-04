@@ -7,7 +7,7 @@ headless: true
 weight: 2
 
 design:
-  columns: "1"
+  columns: "2"
   spacing:
     padding: ["10px", "0", "10px", "0"]
 ---
