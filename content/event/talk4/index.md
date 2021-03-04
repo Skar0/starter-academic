@@ -18,7 +18,7 @@ tags: []
 featured: false
 
 # url_pdf: ""
-url_slides: static/uploads/tamines_highlights_19.pdf
+url_slides: uploads/tamines_highlights_19.pdf
 # url_video: ""
 
 ---
