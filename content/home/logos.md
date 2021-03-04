@@ -31,7 +31,7 @@ design:
 </style>
 
 <div class="image-wrapper2">
-    <a href=""><img src="http://informatique.umons.ac.be/staff/Tamines.Clement/resources/UMONS-EN-rvb.png" align="left" class="scale-image2"></a>
+    <a href=""><img src="https://web.umons.ac.be/app/themes/umons/assets/img/layout/logo-prelude.svg" align="left" class="scale-image2"></a>
   </div>
   <div class="image-wrapper2">
     <a href=""><img src="http://informatique.umons.ac.be/staff/Tamines.Clement/resources/fs_logo_en.svg" align="right" class="scale-image2"></a>
