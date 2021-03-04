@@ -9,7 +9,7 @@ date: "2019-11-19"
 external_link: "https://github.com/Skar0/fire-detection"
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: 
   focal_point: Smart
 
 url_code: ""
