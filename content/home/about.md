@@ -21,5 +21,5 @@ author: admin
 design:
   columns: "2"
   spacing:
-    padding: ["10px", "0", "10px", "0"]
+    padding: ["30px", "0", "20px", "0"]
 ---
