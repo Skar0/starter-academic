@@ -27,8 +27,8 @@ design:
 </style>
 
 <div class="img-wrap">
-		<a href="#"><img src="https://web.umons.ac.be/app/uploads/2018/02/UMONS-rouge-quadri-avec-texteth.png" height="150" width="150">Wedddings</a>
-		<a href="#"><img src="https://web.umons.ac.be/app/uploads/2018/02/UMONS-rouge-quadri-avec-texteth.png" height="150" width="150">Website</a>
+		<a href="#"><img src="http://informatique.umons.ac.be/staff/Tamines.Clement/resources/UMONS-EN-rvb.png" height="200"></a>
+		<a href="#"><img src="http://informatique.umons.ac.be/staff/Tamines.Clement/resources/fs_logo_en.svg" height="200"></a>
 </div>
 
 
@@ -52,9 +52,9 @@ design:
 }
 </style>
 
-  <div class="image-wrapper2">
-    <a href="http://www.drogies-test.de/"><img src="http://informatique.umons.ac.be/staff/Tamines.Clement/resources/UMONS-EN-rvb.png" align="left" class="scale-image2"></a>
+<div class="image-wrapper2">
+    <a href=""><img src="http://informatique.umons.ac.be/staff/Tamines.Clement/resources/UMONS-EN-rvb.png" align="left" class="scale-image2"></a>
   </div>
   <div class="image-wrapper2">
-    <a href="http://www.theater-osnabrueck.de/" target="_blank"><img src="http://informatique.umons.ac.be/staff/Tamines.Clement/resources/fs_logo_en.svg" align="right" class="scale-image2"></a>
-   </div>
+    <a href=""><img src="http://informatique.umons.ac.be/staff/Tamines.Clement/resources/fs_logo_en.svg" align="right" class="scale-image2"></a>
+</div>
