@@ -27,8 +27,8 @@ design:
 </style>
 
 <div class="img-wrap">
-		<a href="#"><img src="http://informatique.umons.ac.be/staff/Tamines.Clement/resources/UMONS-EN-rvb.png" height="200"></a>
-		<a href="#"><img src="http://informatique.umons.ac.be/staff/Tamines.Clement/resources/fs_logo_en.svg" height="200"></a>
+		<a href="#"><img src="http://informatique.umons.ac.be/staff/Tamines.Clement/resources/UMONS-EN-rvb.png" height="200">n</a>
+		<a href="#"><img src="http://informatique.umons.ac.be/staff/Tamines.Clement/resources/fs_logo_en.svg" height="200">n</a>
 </div>
 
 
@@ -47,7 +47,7 @@ design:
 }
 
 .scale-image2 {
-    width: 50%;
+    width: 100%;
     height: auto;
 }
 </style>
