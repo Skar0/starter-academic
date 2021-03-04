@@ -12,6 +12,11 @@ weight: 10
 title: Featured Publication
 subtitle: ""
 
+design:
+  columns: "2"
+  spacing:
+    padding: ["40px", "0", "40px", "0"]
+    
 content:
   # Page type to display. E.g. post, talk, publication...
   page_type: publication
@@ -33,9 +38,5 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 3
- 
-design:
-  columns: "2"
-  spacing:
-    padding: ["20px", "0", "20px", "0"]
+
 ---
