@@ -27,8 +27,8 @@ content:
   filter_button:
   - name: Deep Learning
     tag: Deep Learning
-  - name: Game theory
-    tag: Game theory
+  - name: Game Theory
+    tag: Game Theory
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
