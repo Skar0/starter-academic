@@ -72,14 +72,14 @@ design:
 }
 
 .scale-image2 {
-    width: 100%;
+    width: 50%;
     height: auto;
 }
 </style>
 
   <div class="image-wrapper2">
-    <a href="http://www.drogies-test.de/"><img src="https://web.umons.ac.be/app/uploads/2018/02/UMONS-rouge-quadri-avec-texteth.png" align="left" class="scale-image2"></a>
+    <a href="http://www.drogies-test.de/"><img src="http://informatique.umons.ac.be/staff/Tamines.Clement/resources/UMONS-EN-rvb.png" align="left" class="scale-image2"></a>
   </div>
   <div class="image-wrapper2">
-    <a href="http://www.theater-osnabrueck.de/" target="_blank"><img src="https://web.umons.ac.be/app/uploads/2018/02/UMONS-rouge-quadri-avec-texteth.png" align="right" class="scale-image2"></a>
+    <a href="http://www.theater-osnabrueck.de/" target="_blank"><img src="http://informatique.umons.ac.be/staff/Tamines.Clement/resources/fs_logo_en.svg" align="right" class="scale-image2"></a>
    </div>
