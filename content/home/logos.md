@@ -11,4 +11,4 @@ design:
   spacing:
     padding: ["10px", "0", "10px", "0"]
 ---
-![](https://web.umons.ac.be/app/themes/umons/assets/img/layout/logo-prelude.svg) ![](http://informatique.umons.ac.be/staff/Tamines.Clement/resources/fs_logo_en.svg)
+<img src="https://github.com/Skar0/fire-detection/blob/master/video_examples/video_0.gif" width="300">      <img src="https://github.com/Skar0/fire-detection/blob/master/video_examples/video_1.gif" width="300">
