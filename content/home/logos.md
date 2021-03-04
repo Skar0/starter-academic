@@ -9,7 +9,7 @@ weight: 2
 design:
   columns: "1"
   spacing:
-    padding: ["10px", "50px", "10px", "50px"]
+    padding: ["10px", "0", "10px", "0"]
 ---
 
 <style type="text/css">
