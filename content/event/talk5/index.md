@@ -1,5 +1,5 @@
 ---
-title: Formal Verification Using Game Theory
+title: Formal Verification Using Game Theory (in French)
 
 event: Séminaire Jeunes 
 # event_url:
@@ -18,7 +18,7 @@ tags: []
 featured: false
 
 # url_pdf: ""
-# url_slides: ""
+url_slides: static/uploads/tamines_seminaire_jeunes.pdf
 # url_video: ""
 
 ---
