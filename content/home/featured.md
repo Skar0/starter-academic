@@ -33,10 +33,7 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 3
-
-
-design:
   columns: "2"
   spacing:
-    padding: ["40px", "0", "40px", "0"]
+    padding: ["1px", "0", "10px", "0"]
 ---
