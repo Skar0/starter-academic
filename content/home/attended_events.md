@@ -15,8 +15,15 @@ design:
     padding: ["30px", "0", "30px", "0"]
 ---
 
+**2021**
+
+* [Theoretical Foundations of Computer Systems Boot Camp](https://simons.berkeley.edu/workshops/tfcs2021-boot-camp), online
+
 **2020**
 
+* [GandALF: Games, Automata, Logics, and Formal Verification](https://di.ulb.ac.be/verif/gandalf2020/), online
+* [Highlights of Logic, Games and Automata](http://highlights-conference.org/online/), online
+* [Modelling and Verification of Parallel Processes](http://projects-verimag.imag.fr/movep2020/), online
 * [Dynamics and Information Workshop](https://sites.google.com/view/dynamicsandinformation2020tau/home), Tel-Aviv, Israel
 
 **2019**
