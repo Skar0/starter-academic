@@ -37,5 +37,5 @@ design:
 design:
   columns: "2"
   spacing:
-    padding: ["10px", "0", "10px", "0"]
+    padding: ["20px", "0", "10px", "0"]
 ---
