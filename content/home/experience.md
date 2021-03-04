@@ -51,4 +51,7 @@ experience:
     date_start: '2017-09-01'
     date_end: '2017-11-30'
     description: Design and implementation of a constraint programming model handling the network generation part of a radio configuration tool. The implementation                  was done using Java 8 and the [Choco Solver](https://choco-solver.org/) constraint programming library. 
+design:
+  spacing:
+    padding: ["30px", "0", "20px", "0"]
 ---
