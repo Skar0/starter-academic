@@ -35,5 +35,5 @@ design:
   view: 3
   columns: "2"
   spacing:
-    padding: ["1px", "0", "10px", "0"]
+    padding: ["10px", "0", "10px", "0"]
 ---
