@@ -18,7 +18,7 @@ tags: []
 featured: false
 
 # url_pdf: ""
-# url_slides: ""
+url_slides: uploads/Tamines-Stackelberg-Pareto-Synthesis-MFV.pdf
 # url_video: ""
 
 ---
