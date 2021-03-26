@@ -19,6 +19,6 @@ featured: false
 
 # url_pdf: ""
 url_slides: uploads/Tamines-Stackelberg-Pareto-Synthesis-MFV.pdf
-# url_video: ""
+url_video: https://di.ulb.ac.be/verif/seminar/talks/GMT20210324-095626_Recording_1920x1080.mp4
 
 ---
