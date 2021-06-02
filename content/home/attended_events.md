@@ -17,6 +17,7 @@ design:
 
 **2021**
 
+* [Reinforcement Learning: from Theory to Practice](https://www.turingevents.co.uk/turingevents/frontend/reg/thome.csp?pageID=23477&eventID=73&traceRedir=2), The Alan Turing Institute, online
 * [Theoretical Foundations of Computer Systems Boot Camp](https://simons.berkeley.edu/workshops/tfcs2021-boot-camp), online
 
 **2020**
