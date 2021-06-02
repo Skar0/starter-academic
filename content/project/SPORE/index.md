@@ -1,5 +1,5 @@
 ---
-title: SPORE: Symbolic Partial sOlvers for REalizability
+title: SPORE (Symbolic Partial sOlvers for REalizability)
 
 summary: A prototype symbolic implementation of partial solvers for (generalized) parity games applied to LTL realizability.
 
