@@ -22,7 +22,7 @@ abstract: In this paper, we study the framework of two-player Stackelberg games 
 
 tags: [Stackelberg non-zero sum games played on graphs, synthesis, parity objectives]
 
-featured: false
+featured: true
 
 url_pdf: https://drops.dagstuhl.de/opus/volltexte/2021/14404/pdf/LIPIcs-CONCUR-2021-27.pdf
 
