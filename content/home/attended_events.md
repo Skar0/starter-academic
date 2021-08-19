@@ -17,7 +17,7 @@ design:
 
 **2021**
 
-* [Highlights of Logic, Games and Automata](highlights-conference.org/aachen), Aachen, Germany, online
+* [Highlights of Logic, Games and Automata](http://highlights-conference.org/aachen), Aachen, Germany, online
 * [CONCUR 2021: 32nd International Conference on Concurrency Theory](https://qonfest2021.lacl.fr/concur21.php), Paris, France, online
 * [SYNT 2021: 10th Workshop on Synthesis (CAV 2021 Workshop)](https://workshops.inf.ed.ac.uk/SYNT2021/), Los Angeles, USA, online
 * [Reinforcement Learning: from Theory to Practice](https://www.turingevents.co.uk/turingevents/frontend/reg/thome.csp?pageID=23477&eventID=73&traceRedir=2), The Alan Turing Institute, online
