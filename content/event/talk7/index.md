@@ -4,7 +4,7 @@ title: Stackelberg-Pareto Synthesis
 event: CONCUR 2021
 # event_url:
 
-location: Brussels, Belgium
+location: Paris, France (online)
 
 # address:
 # summary: 
