@@ -44,13 +44,13 @@ experience:
     
         * Tutored students for the Programming and Algorithmics I & II courses (Python 3 & Java 8).
         
-  - title: Internship in Software Development
+  - title: Software Developer Intern
     company: Thales Belgium SA
     company_url: https://www.thalesgroup.com/en/countries/europe/belgium
     location: Tubize, Belgium
     date_start: '2017-09-01'
     date_end: '2017-11-30'
-    description: Design and implementation of a constraint programming model handling the network generation part of a radio configuration tool. The implementation                  was done using Java 8 and the [Choco Solver](https://choco-solver.org/) constraint programming library. 
+    description: Designed and implemented a constraint programming model for network generation in a radio configuration tool (using Java 8 and the [Choco Solver](https://choco-solver.org/) constraint programming library). 
 design:
   spacing:
     padding: ["30px", "0", "30px", "0"]
