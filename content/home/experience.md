@@ -29,9 +29,10 @@ experience:
     date_start: '2018-09-01'
     description: |2-
     
-        * Algorithmics and Bioinformatics: Java 8 project on DNA fragment assembly.
-        * Research internship on symbolic solving of games using Binary Decision Diagrams.
-        * Master student project on window techniques for solving parity games.
+        * Directed the project for the course Algorithmics and Bioinformatics (Java 8 program for DNA fragment assembly).
+        * Obtained very positive student evaluation (good to excellent).
+        * Supervised 2 research internships on symbolic solving of games using Binary Decision Diagrams.
+        * Advised a Master student for a project on window techniques for solving parity games.
         
   - title: Student Teaching Assistant
     company: University of Mons
@@ -41,8 +42,7 @@ experience:
     date_end: '2018-05-30'
     description: |2-
     
-        * Programming and Algorithmics I (Python 3).
-        * Programming and Algorithmics II (Java 8).
+        * Tutored students for the Programming and Algorithmics I & II courses (Python 3 & Java 8).
         
   - title: Internship in Software Development
     company: Thales Belgium SA
