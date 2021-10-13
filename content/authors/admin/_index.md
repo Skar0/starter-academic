@@ -5,7 +5,7 @@ title: Clément Tamines
 superuser: true
 
 # Role/position/tagline
-role: PhD Student in Computer Science
+role: PhD Candidate in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -20,7 +20,7 @@ interests:
 - Algorithmic Game Theory
 - Equilibria Notions in Games
 - Reactive System Synthesis
-- Multiplayer Games
+- Formal Verification
 - Machine Learning
 
 # Education to show in About widget
@@ -58,7 +58,7 @@ social:
   link: https://github.com/Skar0
 - icon: linkedin
   icon_pack: fab
-  link: https://be.linkedin.com/in/cl%C3%A9ment-tamines-720330124/en
+  link: https://www.linkedin.com/in/clement-tamines/en
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
