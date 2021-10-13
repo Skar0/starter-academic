@@ -20,7 +20,9 @@ experience:
     company_url: https://web.umons.ac.be/en/
     location: Mons, Belgium
     date_start: '2018-10-01'
-    description: PhD thesis on equilibira in non-zero-sum games.
+    description: |2-
+    
+        * PhD thesis on equilibira in non-zero-sum games.
     
   - title: Teaching Assistant
     company: University of Mons
@@ -50,7 +52,9 @@ experience:
     location: Tubize, Belgium
     date_start: '2017-09-01'
     date_end: '2017-11-30'
-    description: Designed and implemented a constraint programming model for network generation in a radio configuration tool (using Java 8 and the [Choco Solver](https://choco-solver.org/) constraint programming library). 
+    description: |2-
+    
+        * Designed and implemented a constraint programming model for network generation in a radio configuration tool (using Java 8 and the [Choco Solver](https://choco-solver.org/) constraint programming library). 
 design:
   spacing:
     padding: ["30px", "0", "30px", "0"]
