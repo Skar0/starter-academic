@@ -15,6 +15,7 @@ design:
     padding: ["30px", "0", "30px", "0"]
 ---
 **2022**
+* [Highlights of Logic, Games and Automata](https://highlights-conference.org/2022/), Paris, France
 * [Workshop - Current Trends in Graph and Stochastic Games](https://gamenet22.csc.liv.ac.uk), Maastricht, the Netherlands
 
 **2021**
