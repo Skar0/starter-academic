@@ -14,9 +14,11 @@ design:
   spacing:
     padding: ["30px", "0", "30px", "0"]
 ---
+**2022**
+* [Workshop - Current Trends in Graph and Stochastic Games](https://gamenet22.csc.liv.ac.uk), Maastricht, the Netherlands
 
 **2021**
-
+* [Journées annuelles du GT Vérification du GDR IM](https://www.gdr-im.fr/event/gt-verif-2021/), Gif-sur-Yvette, France
 * [Highlights of Logic, Games and Automata](http://highlights-conference.org/aachen), Aachen, Germany, online
 * [CONCUR 2021: 32nd International Conference on Concurrency Theory](https://qonfest2021.lacl.fr/concur21.php), Paris, France, online
 * [SYNT 2021: 10th Workshop on Synthesis (CAV 2021 Workshop)](https://workshops.inf.ed.ac.uk/SYNT2021/), Los Angeles, USA, online
