@@ -20,6 +20,7 @@ experience:
     company_url: https://web.umons.ac.be/en/
     location: Mons, Belgium
     date_start: '2018-10-01'
+    date_end: '2022-09-29'
     description: |2-
     
         * PhD thesis on equilibira in non-zero-sum games.
@@ -29,6 +30,7 @@ experience:
     company_url: https://web.umons.ac.be/en/
     location: Mons, Belgium
     date_start: '2018-09-01'
+    date_end: '2022-09-29'
     description: |2-
     
         * Directed the project for the course Algorithmics and Bioinformatics (Java 8 program for DNA fragment assembly).
