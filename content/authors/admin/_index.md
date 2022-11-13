@@ -5,7 +5,7 @@ title: Clément Tamines
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate in Computer Science
+role: PhD in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -47,9 +47,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:clement.tamines@umons.ac.be"
-- icon: cv
-  icon_pack: ai
-  link: uploads/TAMINES_Clement_CV.pdf
 - icon: dblp
   icon_pack: ai
   link: https://dblp.org/pid/245/2655.html
@@ -73,4 +70,10 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a PhD student in the Computer Science department at the [University of Mons](https://web.umons.ac.be/en/) (UMONS) in Belgium. I am co-supervised by [Véronique Bruyère](http://informatique.umons.ac.be/staff/Bruyere.Veronique/) (UMONS) and [Jean-François Raskin](http://di.ulb.ac.be/verif/jfr/) ([Université libre de Bruxelles](https://www.ulb.be/en/ulb-homepage)). My research interests regard solving parity and generalized parity games efficiently and notions of equilibria in non-zero-sum multiplayer games. I am also very interested in the field of machine learning. 
+I completed a PhD in the Computer Science department of the [University of 
+Mons](https://web.umons.ac.be/en/) (UMONS) in Belgium. I was co-supervised 
+by [Véronique 
+Bruyère](http://informatique.umons.ac.be/staff/Bruyere.Veronique/) (UMONS) 
+and [Jean-François Raskin](http://di.ulb.ac.be/verif/jfr/) ([Université 
+libre de Bruxelles](https://www.ulb.be/en/ulb-homepage)). My research interests regarded solving parity and generalized parity games efficiently and notions of equilibria in non-zero-sum multiplayer games. I am also very interested in the field of machine learning. 
+
