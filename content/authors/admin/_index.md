@@ -70,10 +70,5 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I completed a PhD in the Computer Science department of the [University of 
-Mons](https://web.umons.ac.be/en/) (UMONS) in Belgium. I was co-supervised 
-by [Véronique 
-Bruyère](http://informatique.umons.ac.be/staff/Bruyere.Veronique/) (UMONS) 
-and [Jean-François Raskin](http://di.ulb.ac.be/verif/jfr/) ([Université 
-libre de Bruxelles](https://www.ulb.be/en/ulb-homepage)). My research interests regarded solving parity and generalized parity games efficiently and notions of equilibria in non-zero-sum multiplayer games. I am also very interested in the field of machine learning. 
+I completed a PhD in the Computer Science department of the [University of Mons](https://web.umons.ac.be/en/) (UMONS) in Belgium. I was co-supervised by [Véronique Bruyère](http://informatique.umons.ac.be/staff/Bruyere.Veronique/) (UMONS) and [Jean-François Raskin](http://di.ulb.ac.be/verif/jfr/) ([Université libre de Bruxelles](https://www.ulb.be/en/ulb-homepage)). My research interests regarded solving parity and generalized parity games efficiently and notions of equilibria in non-zero-sum multiplayer games. I am also very interested in the field of machine learning. 
 
