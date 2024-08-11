@@ -44,9 +44,6 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: "mailto:clement.tamines@umons.ac.be"
 - icon: dblp
   icon_pack: ai
   link: https://dblp.org/pid/245/2655.html
@@ -70,5 +67,5 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I completed a PhD in the Computer Science department of the [University of Mons](https://web.umons.ac.be/en/) (UMONS) in Belgium. I was co-supervised by [Véronique Bruyère](http://informatique.umons.ac.be/staff/Bruyere.Veronique/) (UMONS) and [Jean-François Raskin](http://di.ulb.ac.be/verif/jfr/) ([Université libre de Bruxelles](https://www.ulb.be/en/ulb-homepage)). My research interests regarded solving parity and generalized parity games efficiently and notions of equilibria in non-zero-sum multiplayer games. I am also very interested in the field of machine learning. 
+I completed a PhD in the Computer Science department of the [University of Mons](https://web.umons.ac.be/en/) (UMONS) in Belgium. I was co-supervised by [Véronique Bruyère](https://web.umons.ac.be/fs-informatique/equipes/veronique-bruyere/) (UMONS) and [Jean-François Raskin](http://di.ulb.ac.be/verif/jfr/) ([Université libre de Bruxelles](https://www.ulb.be/en/ulb-homepage)). My research interests regarded solving parity and generalized parity games efficiently and notions of equilibria in non-zero-sum multiplayer games. I am also very interested in the field of machine learning. 
 
